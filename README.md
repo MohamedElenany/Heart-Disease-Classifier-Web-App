@@ -16,3 +16,19 @@ To run the web app, please clone the repository and execute the following comman
 ```python app.py```
 
 If you wish to review the notebook where I pre-processed the data and tested the models, navigate to the Notebooks folder and execute the notebook by running all code blocks consecutively. For additional details, please refer to the project report provided above.
+
+## Files Uploaded: 
+- **Notebook:**
+  - *heart_disease_uci.csv*: Contains the original dataset used in the project.
+  - *heart_disease_classifier.ipynb*: Contains all project code, including data preprocessing, model training, and result evaluation.
+
+- **Templates:** Contains the HTML files for the web app.
+
+- **app.py:** Contains the code required to run the web app using Flask.
+
+- **model_final.py:** Contains the pre-trained model and functions used to run and obtain results from the model.
+
+- **training_data.csv:** Contains the data used to train the model.
+
+- **Final_report.pdf:** Presents a comprehensive report of the project.
+```
