@@ -1,6 +1,6 @@
 # Heart Disease Classifier Web App
 ## Main Objective and Business Value:
-The project's objective is to predict the presence of heart disease in patients. It is designed for use by medical professionals, primarily relying on the patient's medical data collected during checkup examinations conducted by a doctor. This tool would offer significant value to doctors in their clinical practice, as diagnosing heart disease is often a challenging and complex task, involving expensive additional tests and reports. Therefore, having such a tool to assist in identifying and forecasting patient diagnoses would be highly beneficial and lead to substantial cost savings.
+The project's objective is to offer a web application that can predict the presence of heart disease in patients. It is designed for use by medical professionals, primarily relying on the patient's medical data collected during checkup examinations conducted by a doctor. This tool would offer significant value to doctors in their clinical practice, as diagnosing heart disease is often a challenging and complex task, involving expensive additional tests and reports. Therefore, having such a tool to assist in identifying and forecasting patient diagnoses would be highly beneficial and lead to substantial cost savings.
 
 Disclaimer: This tool is NOT 100% accurate. There is no algorithm that can predict heart disease with absolute precision. However, if you choose to use this tool for medical purposes, please do so at your own discretion.
 
