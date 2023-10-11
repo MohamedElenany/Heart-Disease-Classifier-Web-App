@@ -13,4 +13,4 @@ Disclaimer: This tool is NOT 100% accurate. There is no algorithm that can predi
 To run the web app, please clone the repository and execute the following command in the command line, while being in the same directory as the cloned repository:
 ```python app.py```
 
-If you wish to review the notebook where I pre-processed the data and tested the models, navigate to the Notebooks folder and execute the notebook by running all code blocks consecutively.
+If you wish to review the notebook where I pre-processed the data and tested the models, navigate to the Notebooks folder and execute the notebook by running all code blocks consecutively. For additional details, please refer to the project report provided above.
